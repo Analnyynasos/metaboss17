@@ -1,0 +1,88 @@
+{
+  "name": "Liberty Square Pre-Reveal #3220",
+  "symbol": "LS",
+  "description": "A collection of 9,999 NFTs on Solana. Series 1 of 3. 1-888-Git-Rekt",
+  "seller_fee_basis_points": 2000,
+  "image": "https://bafybeidaoaytfqmasltjfzdt3cdmxlitnwxfarhrvq2oanq4dxnq3ul23m.ipfs.nftstorage.link/3220.png?ext=png",
+  "attributes": [
+{
+      "trait_type": "Gang:",
+      "value": "The Reapers"
+    },
+    {
+      "trait_type": "IAID:",
+      "value": "085872"
+    },
+    {
+      "trait_type": "Primary Background:",
+      "value": "Onyx"
+    },
+    {
+      "trait_type": "Splatter:",
+      "value": "Slaughterhouse"
+    },
+    {
+      "trait_type": "Tail:",
+      "value": "Standard Tail"
+    },
+    {
+      "trait_type": "Back Weapon:",
+      "value": "Kitana"
+    },
+    {
+      "trait_type": "Body:",
+      "value": "Standard Body"
+    },
+    {
+      "trait_type": "Weapon #1:",
+      "value": "Silenced"
+    },
+    {
+      "trait_type": "Weapon #2:",
+      "value": "Guns Up AK"
+    },
+    {
+      "trait_type": "Pants:",
+      "value": "BlackPants"
+    },
+    {
+      "trait_type": "Gear Style:",
+      "value": "Tactical Suit"
+    },
+    {
+      "trait_type": "Chest Gear:",
+      "value": "Tactical Vest"
+    },
+    {
+      "trait_type": "Strap:",
+      "value": "Sword Strap"
+    },
+    {
+      "trait_type": "Eye Color:",
+      "value": "Red Eyes"
+    },
+    {
+      "trait_type": "Eye Patch:",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat:",
+      "value": "PatentMilitaryHat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
